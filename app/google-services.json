@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469166333517",
+    "firebase_url": "https://tutionhub-c67a9.firebaseio.com",
+    "project_id": "tutionhub-c67a9",
+    "storage_bucket": "tutionhub-c67a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469166333517:android:68acd45cc127d2ac",
+        "android_client_info": {
+          "package_name": "com.example.shamsad.tutionhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469166333517-61ri3vtp2qnkbpt605ef2okem4170ni2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shamsad.tutionhub",
+            "certificate_hash": "d23390d5a7e506f1f54231f1dad85d2b8a6371bf"
+          }
+        },
+        {
+          "client_id": "469166333517-ok8mf4jgsdrmpa8s52hf0tbad34c0ll5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGWt5VKT_b6-58nJcxyFNxhdLG3pxVMvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469166333517-ok8mf4jgsdrmpa8s52hf0tbad34c0ll5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

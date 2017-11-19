@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/home_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="@color/grey_100"
+    android:orientation="vertical"
+    android:weightSum="4"
+    tools:context="com.example.shamsad.tutionhub.activities.FeedActivity">
+
+	<android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:id="@+id/tbHome"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/grey_100">
+    </android.support.v7.widget.Toolbar>
+
+	<com.mindorks.placeholderview.InfinitePlaceHolderView
+		android:id="@+id/loadMoreView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"/>
+
+
+</LinearLayout>
