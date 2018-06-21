@@ -4,6 +4,12 @@ This is an Android Application for tuition.
 Based on the tutor’s location and choice this app will show him the best possible tuition. 
 This app is designed using Material View and Infinite Card View Library. 
 
+##Libraries that have been used in this project
+1) **MaterialDrawer** link: https://github.com/mikepenz/MaterialDrawer
+2) **PlaceHolderView** link: https://github.com/janishar/PlaceHolderView
+3) **MaterialView**
+4) **Firebase**
+
 ##Screen Shots
 
 ![1](https://user-images.githubusercontent.com/19304394/41729846-25b537ba-759c-11e8-8a33-9cab7d6935f1.png)
